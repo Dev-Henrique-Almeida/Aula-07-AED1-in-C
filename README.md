@@ -1,5 +1,5 @@
 # Aula 07 - Algoritmos e Estruturas de Dados 01
-## Introdução a Struct em C
+## Introdução a Ponteiros em C
 
 Essa é mais uma atividade da matéria de AED1, realizado em 12/08/2022.
 
